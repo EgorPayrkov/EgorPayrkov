@@ -7,7 +7,9 @@
 <div align="center">
   <a href="https://www.codewars.com/users/EgorPyarkov">Codewars</a>
 </div>
-
+<div align="center">
+  <a href="mailto:mailforwork1718@gmail.com">Codewars</a>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EgorPyarkov&style=flat-square&color=red"/>
