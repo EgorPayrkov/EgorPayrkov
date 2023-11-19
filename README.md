@@ -2,7 +2,7 @@
    My links:
 </div>
 <div align="center">
-    <a href=" https://t.me/egorpyarkov">Telegram</a>  
+    <a href="https://t.me/egorpyarkov">Telegram</a>  
 </div>
 <div align="center">
   <a href="https://www.codewars.com/users/EgorPyarkov">Codewars</a>
