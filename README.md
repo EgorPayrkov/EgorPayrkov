@@ -1,12 +1,13 @@
 <div align="center">
-   codewars: https://www.codewars.com/users/EgorPyarkov
+   My links:
 </div>
 <div align="center">
-    discord: 2ss_5
+    <a href=" https://t.me/egorpyarkov">Telegram</a>  
 </div>
 <div align="center">
-  telegram: https://t.me/egorpyarkov
+  <a href="https://www.codewars.com/users/EgorPyarkov">Codewars</a>
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EgorPyarkov&style=flat-square&color=red"/>
