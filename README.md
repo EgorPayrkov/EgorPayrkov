@@ -4,9 +4,6 @@
 <div align="center">
    My links:
 </div>
-<div align="center"v>
-  бананчики?
-</div>
 
 <div id="header" align="center">
   <a href="https://t.me/egorpyarkov"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="100"/></a>
